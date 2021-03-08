@@ -20,6 +20,7 @@ namespace github01
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = (Convert.ToInt32(textBox1.Text) + Convert.ToInt32(textBox2.Text)).ToString();
+            //+ěšč
             //123
         }
     }
